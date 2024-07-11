@@ -1,0 +1,22 @@
+h1{
+    color:aquamarine
+}
+p{
+    color:darkkhaki;
+    font-size: 48;
+    background-color: blue;
+}
+strong{
+    background-color: cornflowerblue;
+}
+body{
+    background:url("image.jpg");
+    background-repeat: no-repeat;
+    color: aquamarine;
+}
+.special-heading{
+    color:darkmagentau
+}
+#heading-style{
+    color: darkblue;
+}
